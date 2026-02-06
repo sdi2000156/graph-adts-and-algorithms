@@ -1,5 +1,16 @@
-# Question2 
+# Graph ADTs & Algorithms (C)
 
-Φοίβη Ορφανάκου 1115202000156
+Curated implementations from a university assignment, focusing on graph data structures and classic algorithms.
 
-1.Ο γράφος είναι ένας πίνακας λιστών επομένως η υλοποίησή μου έχει βασιστεί σε αυτή τη ίδεα.
+## Contents
+- **question2**: Undirected Graph ADT
+- **question4**: Weighted Undirected Graph + Kruskal MST
+- **question6**: Skip List (supporting data structure)
+
+## Build & Run
+Each folder is self-contained.
+
+```bash
+cd question2 && make run
+cd ../question4 && make run
+cd ../question6 && make run
